@@ -139,6 +139,12 @@
             "margin_bottom": 15
           }
         },
+        "custom_liquid_AHApNa": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"product__content--block\" style=\"margin-bottom: 1.6rem;\">\n              <p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\" style=\"text-align: center; display: flex; align-items: center; justify-content: center; gap: 5px;\">\n  <svg width=\"15\" height=\"15\" aria-hidden=\"true\">\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgb(62,214,96, 0.3)\"></circle>\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(62,214,96)\"></circle>\n  </svg> \n  <strong>En stock</strong>, expédié sous 24/48 heures\n</p>\n            </div>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -251,6 +257,7 @@
         "price",
         "divider_M6tM9n",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
+        "custom_liquid_AHApNa",
         "buy_buttons",
         "payment_badges_KpM93x",
         "reviews_qLM9Tf",
