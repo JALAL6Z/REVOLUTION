@@ -9,22 +9,6 @@
  */
 {
   "sections": {
-    "section_divider_GLCFNG": {
-      "type": "section-divider",
-      "name": "Section divider",
-      "settings": {
-        "visibility": "always-display",
-        "shape": "curved_4",
-        "flip_horizontal": false,
-        "flip_vertical": true,
-        "shape_color": "accent-1",
-        "custom_shape_color": "#dd1d1d",
-        "background_color": "background-1",
-        "custom_background_color": "#ffffff",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -94,7 +78,7 @@
         "custom_liquid_cpLQDY": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"\n  background:#FFF7BF;           /* jaune plus doux, plus premium */\n  border-radius:20px;           /* plus joué/jouet */\n  padding:14px 16px;\n  margin-top:10px;\n  font-family:Poppins, system-ui, -apple-system, sans-serif;\n\">\n  <ul style=\"\n    list-style:none;\n    margin:0;\n    padding:0;\n    display:flex;\n    flex-direction:column;\n    gap:8px;\n    font-size:15px;\n    line-height:1.45;\n    color:#121212;\n  \">\n    <li style=\"display:flex;align-items:flex-start;gap:10px;\">\n      <span style=\"\n        width:13px;height:13px;\n        background:#121212;\n        border-radius:50%;\n        margin-top:5px;\n        flex-shrink:0;\n      \"></span>\n      <span>Favorise la réflexion et l’anticipation</span>\n    </li>\n\n    <li style=\"display:flex;align-items:flex-start;gap:10px;\">\n      <span style=\"\n        width:13px;height:13px;\n        background:#121212;\n        border-radius:50%;\n        margin-top:5px;\n        flex-shrink:0;\n      \"></span>\n      <span>Encourage l’autonomie et la concentration</span>\n    </li>\n\n    <li style=\"display:flex;align-items:flex-start;gap:10px;\">\n      <span style=\"\n        width:13px;height:13px;\n        background:#121212;\n        border-radius:50%;\n        margin-top:5px;\n        flex-shrink:0;\n      \"></span>\n      <span>Renforce les liens familiaux</span>\n    </li>\n\n    <li style=\"display:flex;align-items:flex-start;gap:10px;\">\n      <span style=\"\n        width:13px;height:13px;\n        background:#121212;\n        border-radius:50%;\n        margin-top:5px;\n        flex-shrink:0;\n      \"></span>\n      <span>Fonctionne sans piles, sans écran</span>\n    </li>\n  </ul>\n</div>"
+            "custom_liquid": "<div style=\"\n  background:#FFF7BF;           /* jaune plus doux, plus premium */\n  border-radius:20px;           /* plus joué/jouet */\n  padding:14px 16px;\n  margin-top:10px;\n  font-family:Inter, system-ui, -apple-system, sans-serif;\n\">\n  <ul style=\"\n    list-style:none;\n    margin:0;\n    padding:0;\n    display:flex;\n    flex-direction:column;\n    gap:8px;\n    font-size:15px;\n    line-height:1.45;\n    color:#121212;\n  \">\n    <li style=\"display:flex;align-items:flex-start;gap:10px;\">\n      <span style=\"\n        width:8px;height:8px;\n        background:#121212;\n        border-radius:50%;\n        margin-top:7px;\n        flex-shrink:0;\n      \"></span>\n      <span>Favorise la réflexion et l’anticipation</span>\n    </li>\n\n    <li style=\"display:flex;align-items:flex-start;gap:10px;\">\n      <span style=\"\n        width:8px;height:8px;\n        background:#121212;\n        border-radius:50%;\n        margin-top:7px;\n        flex-shrink:0;\n      \"></span>\n      <span>Améliore la concentration et la mémoire</span>\n    </li>\n\n    <li style=\"display:flex;align-items:flex-start;gap:10px;\">\n      <span style=\"\n        width:8px;height:8px;\n        background:#121212;\n        border-radius:50%;\n        margin-top:7px;\n        flex-shrink:0;\n      \"></span>\n      <span>Renforce les liens familiaux</span>\n    </li>\n\n    <li style=\"display:flex;align-items:flex-start;gap:10px;\">\n      <span style=\"\n        width:8px;height:8px;\n        background:#121212;\n        border-radius:50%;\n        margin-top:7px;\n        flex-shrink:0;\n      \"></span>\n      <span>Fonctionne sans piles, sans écran</span>\n    </li>\n  </ul>\n</div>"
           }
         },
         "price": {
@@ -126,12 +110,6 @@
             "border_radius": 0,
             "margin_top": 15,
             "margin_bottom": 15
-          }
-        },
-        "custom_liquid_DCh9n8": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Développé pour les dormeurs lourds, par les dormeurs lourds</span>\n</li>\n<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Garantie de réveil à 100% !</span>\n</li>\n<li style=\"display: flex; align-items: center; margin-bottom: 17px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Reveillez-vous sans déranger les autres !</span>\n</li>"
           }
         },
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1": {
@@ -188,6 +166,36 @@
             "margin_bottom": 15
           }
         },
+        "reviews_qLM9Tf": {
+          "type": "reviews",
+          "settings": {
+            "color_scheme": "background-1",
+            "show_custom_bg": true,
+            "custom_bg_color": "#f8f8f8",
+            "corner_radius": 12,
+            "border_width": 0,
+            "border_color": "#b7b7b7",
+            "avatar_alignment": "top",
+            "avatar_corner_radius": 40,
+            "star_color": "#3ab084",
+            "stars_translate": 0,
+            "checkmark_color": "#3ab084",
+            "checkmark_icon_color": "#3ab084",
+            "slider_type": "slide",
+            "autoplay": false,
+            "autoplay_speed": 5,
+            "display_arrows": false,
+            "display_dots": true,
+            "author_1": "<em>Author</em> [stars]",
+            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>",
+            "author_2": "<em>Author</em> [stars]",
+            "text_2": "<p>Share positive thoughts and feedback from your customer.</p>",
+            "author_3": "<em>Author</em> [stars]",
+            "text_3": "<p>Share positive thoughts and feedback from your customer.</p>",
+            "margin_top": 15,
+            "margin_bottom": 24
+          }
+        },
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5": {
           "type": "sticky_atc",
           "settings": {
@@ -220,49 +228,17 @@
             "mobile_transparent_bg": false
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-            "margin_top": 24,
-            "margin_bottom": 24
-          }
-        },
         "custom_liquid_MKEkWy": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div style=\"margin-top: 5px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0975/7363/4396/files/Capture_d_ecran_2025-12-09_a_13.22.01.png?v=1765282939\" style=\"width: 100%; margin-bottom: 10px;\">"
           }
         },
-        "collapsible_tab_PaRYB9": {
-          "type": "collapsible_tab",
+        "custom_liquid_CCEqmA": {
+          "type": "custom_liquid",
           "settings": {
-            "heading": "Collapsible row",
-            "heading_size": "medium",
-            "icon": "check_box",
-            "filled_icon": false,
-            "collapse_icon": "carret",
-            "display_top_border": true,
-            "open": false,
-            "content": "",
-            "page": "",
-            "margin_top": 24,
-            "margin_bottom": 0
-          }
-        },
-        "de158e68-5d0d-4819-a625-e2dabdff87d1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Collapsible row",
-            "heading_size": "medium",
-            "icon": "check_box",
-            "filled_icon": false,
-            "collapse_icon": "carret",
-            "display_top_border": true,
-            "open": false,
-            "content": "",
-            "page": "",
-            "margin_top": 24,
-            "margin_bottom": 0
+            "custom_liquid": "<style>\n.faq-ludiko details {\n  background: #F8F8F8;\n  border-radius: 12px;\n  padding: 12px 16px;\n  margin-bottom: 10px;\n  cursor: pointer;\n  border: 1px solid #E8E8E8;\n  transition: 0.2s ease;\n}\n\n.faq-ludiko summary {\n  font-weight: 600;\n  font-size: 14px;\n  color: #121212;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n}\n\n.faq-ludiko summary::-webkit-details-marker {\n  display: none;\n}\n\n.faq-ludiko summary:after {\n  content: \"+\";\n  font-size: 18px;\n  font-weight: 600;\n  opacity: 0.6;\n}\n\n.faq-ludiko details[open] summary:after {\n  content: \"-\";\n}\n\n.faq-ludiko .faq-answer {\n  margin-top: 8px;\n  font-size: 14px;\n  color: #333;\n  line-height: 1.4;\n}\n</style>\n\n<div class=\"faq-ludiko\">\n\n  <details>\n    <summary>Quand vais-je recevoir ma commande ?</summary>\n    <div class=\"faq-answer\">\n      Les commandes sont expédiées sous 24 à 48h. La livraison prend\n      <strong>4 à 7 jours ouvrés</strong>. Vous recevrez un numéro de suivi.\n    </div>\n  </details>\n\n  <details>\n    <summary>À partir de quel âge le jeu est-il adapté ?</summary>\n    <div class=\"faq-answer\">\n      Le jeu est adapté dès <strong>6 ans</strong> et apprécié par toute la famille.\n    </div>\n  </details>\n\n  <details>\n    <summary>Le jeu aide-t-il vraiment à la réflexion ?</summary>\n    <div class=\"faq-answer\">\n      Oui, il stimule la <strong>logique, la concentration et l’anticipation</strong>.\n    </div>\n  </details>\n\n  <details>\n    <summary>Faut-il des piles ?</summary>\n    <div class=\"faq-answer\">\n      Non, le jeu fonctionne <strong>sans piles et sans écran</strong>.\n    </div>\n  </details>\n\n  <details>\n    <summary>Est-ce une bonne idée de cadeau ?</summary>\n    <div class=\"faq-answer\">\n      Oui, c’est l’un des jeux éducatifs préférés des familles en <strong>2025</strong>.\n    </div>\n  </details>\n\n  <details>\n    <summary>Puis-je retourner le produit ?</summary>\n    <div class=\"faq-answer\">\n      Oui, vous bénéficiez de notre garantie <strong>30 jours satisfait ou remboursé</strong>.\n    </div>\n  </details>\n\n</div>"
           }
         }
       },
@@ -274,15 +250,13 @@
         "custom_liquid_cpLQDY",
         "price",
         "divider_M6tM9n",
-        "custom_liquid_DCh9n8",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
         "buy_buttons",
         "payment_badges_KpM93x",
+        "reviews_qLM9Tf",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
-        "description",
         "custom_liquid_MKEkWy",
-        "collapsible_tab_PaRYB9",
-        "de158e68-5d0d-4819-a625-e2dabdff87d1"
+        "custom_liquid_CCEqmA"
       ],
       "custom_css": [],
       "settings": {
@@ -308,7 +282,7 @@
         "media_position": "left",
         "gallery_layout": "columns",
         "desktop_thumbnails_count": 5,
-        "constrain_to_viewport": true,
+        "constrain_to_viewport": false,
         "media_fit": "contain",
         "desktop_arrows_position": "sides",
         "mobile_media_corner_radius": 0,
@@ -787,7 +761,6 @@
     }
   },
   "order": [
-    "section_divider_GLCFNG",
     "main",
     "related-products",
     "8beb6911-28c6-482c-976a-e5421ad3e8df",
