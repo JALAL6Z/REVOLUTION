@@ -20,7 +20,7 @@
         "shape_color": "accent-1",
         "custom_shape_color": "#dd1d1d",
         "background_color": "background-1",
-        "custom_background_color": "#FFFFFF",
+        "custom_background_color": "#ffffff",
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -28,14 +28,30 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "custom_liquid_Nex4gq": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"display: flex; align-items: center; gap: 6px; font-family: Arial, sans-serif; font-size: 13px; color: #000; flex-wrap: wrap; margin-bottom: 1.6rem;\">\n  <span><strong>Excellent</strong></span>\n\n  <img src=\"https://cdn.shopify.com/s/files/1/0604/7154/1895/files/stars-5-1.svg?v=1732298016\"\n       alt=\"5 étoiles\"\n       style=\"height: 13px; display: inline-block;\">\n\n  <span style=\"font-weight: bold; text-decoration: underline;\">10 316 avis sur</span>\n\n  <img src=\"https://cdn.shopify.com/s/files/1/0604/7154/1895/files/TRUSTPILOT_LOGO.png?v=1732299659\"\n       alt=\"Trustpilot\"\n       style=\"height: 18px; display: inline-block;\">\n</div>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "text_size": "h2",
+            "title_alignment": "left",
+            "uppercase_title": true,
+            "margin_top": 0,
+            "margin_bottom": 0
+          }
+        },
         "text_WtWwz8": {
           "type": "text",
           "settings": {
-            "mobile_text_size": 14,
+            "mobile_text_size": 13,
             "desktop_text_size": 16,
             "alignment": "left",
             "text_color": "#121212",
-            "text_1": "ÉLU #1 DES RÉVEILS SILENCIEUX 2025",
+            "text_1": "JEU ÉDUCATIF N°1 en 2025 - <strong>Élu meilleur jeu de logique</strong> par plus de 10 000 familles",
             "text_2": "",
             "text_3": "",
             "icon_scale": 120,
@@ -52,47 +68,38 @@
             "enable_bg": false,
             "bg_color": "#f3f3f3",
             "corner_radius": 40,
-            "padding": 3,
+            "padding": 2,
             "border_size": 0,
             "border_color": "#b7b7b7",
-            "margin_top": 15,
+            "margin_top": 3,
             "margin_bottom": 0
-          }
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-            "text_size": "h2",
-            "title_alignment": "left",
-            "uppercase_title": true,
-            "margin_top": 0,
-            "margin_bottom": 9
           }
         },
         "a6eb81db-40e4-43e0-972f-32db010a4a56": {
           "type": "rating_stars",
+          "disabled": true,
           "settings": {
             "rating": 4.4,
             "star_color": "#ffcc00",
             "bg_stars_style": "full",
             "bg_star_color": "#ececec",
-            "label": "(xxxx Reviews)",
-            "size": 16,
+            "label": "Recommandé par +10 000 parents",
+            "size": 12,
             "alignment": "flex-start",
             "scroll_id": "",
             "margin_top": 0,
             "margin_bottom": 9
           }
         },
-        "custom_liquid_FwYL9G": {
+        "custom_liquid_cpLQDY": {
           "type": "custom_liquid",
-          "disabled": true,
           "settings": {
-            "custom_liquid": "<div style=\"display: flex; align-items: center; gap: 6px; font-family: Arial, sans-serif; font-size: 13px; color: #000; flex-wrap: wrap; margin-bottom: 1.6rem;\">\n  <span><strong>Excellent</strong></span>\n\n  <img src=\"https://cdn.shopify.com/s/files/1/0604/7154/1895/files/stars-5-1.svg?v=1732298016\"\n       alt=\"5 étoiles\"\n       style=\"height: 16px; display: inline-block;\">\n\n  <span style=\"font-weight: bold; text-decoration: underline;\">316+ avis sur</span>\n\n  <img src=\"https://cdn.shopify.com/s/files/1/0604/7154/1895/files/TRUSTPILOT_LOGO.png?v=1732299659\"\n       alt=\"Trustpilot\"\n       style=\"height: 18px; display: inline-block;\">\n</div>"
+            "custom_liquid": "<div style=\"\n  background:#FFF7BF;           /* jaune plus doux, plus premium */\n  border-radius:20px;           /* plus joué/jouet */\n  padding:14px 16px;\n  margin-top:10px;\n  font-family:Poppins, system-ui, -apple-system, sans-serif;\n\">\n  <ul style=\"\n    list-style:none;\n    margin:0;\n    padding:0;\n    display:flex;\n    flex-direction:column;\n    gap:8px;\n    font-size:15px;\n    line-height:1.45;\n    color:#121212;\n  \">\n    <li style=\"display:flex;align-items:flex-start;gap:10px;\">\n      <span style=\"\n        width:13px;height:13px;\n        background:#121212;\n        border-radius:50%;\n        margin-top:5px;\n        flex-shrink:0;\n      \"></span>\n      <span>Favorise la réflexion et l’anticipation</span>\n    </li>\n\n    <li style=\"display:flex;align-items:flex-start;gap:10px;\">\n      <span style=\"\n        width:13px;height:13px;\n        background:#121212;\n        border-radius:50%;\n        margin-top:5px;\n        flex-shrink:0;\n      \"></span>\n      <span>Encourage l’autonomie et la concentration</span>\n    </li>\n\n    <li style=\"display:flex;align-items:flex-start;gap:10px;\">\n      <span style=\"\n        width:13px;height:13px;\n        background:#121212;\n        border-radius:50%;\n        margin-top:5px;\n        flex-shrink:0;\n      \"></span>\n      <span>Renforce les liens familiaux</span>\n    </li>\n\n    <li style=\"display:flex;align-items:flex-start;gap:10px;\">\n      <span style=\"\n        width:13px;height:13px;\n        background:#121212;\n        border-radius:50%;\n        margin-top:5px;\n        flex-shrink:0;\n      \"></span>\n      <span>Fonctionne sans piles, sans écran</span>\n    </li>\n  </ul>\n</div>"
           }
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "layout": "price_first",
             "price_color": "accent-1",
@@ -260,10 +267,11 @@
         }
       },
       "block_order": [
-        "text_WtWwz8",
+        "custom_liquid_Nex4gq",
         "title",
+        "text_WtWwz8",
         "a6eb81db-40e4-43e0-972f-32db010a4a56",
-        "custom_liquid_FwYL9G",
+        "custom_liquid_cpLQDY",
         "price",
         "divider_M6tM9n",
         "custom_liquid_DCh9n8",
