@@ -81,6 +81,94 @@
             "custom_liquid": "<div style=\"\n  background:#FFF7BF;           /* jaune plus doux, plus premium */\n  border-radius:20px;           /* plus joué/jouet */\n  padding:14px 16px;\n  margin-top:10px;\n  font-family:Inter, system-ui, -apple-system, sans-serif;\n\">\n  <ul style=\"\n    list-style:none;\n    margin:0;\n    padding:0;\n    display:flex;\n    flex-direction:column;\n    gap:8px;\n    font-size:15px;\n    line-height:1.45;\n    color:#121212;\n  \">\n    <li style=\"display:flex;align-items:flex-start;gap:10px;\">\n      <span style=\"\n        width:8px;height:8px;\n        background:#121212;\n        border-radius:50%;\n        margin-top:7px;\n        flex-shrink:0;\n      \"></span>\n      <span>Favorise la réflexion et l’anticipation</span>\n    </li>\n\n    <li style=\"display:flex;align-items:flex-start;gap:10px;\">\n      <span style=\"\n        width:8px;height:8px;\n        background:#121212;\n        border-radius:50%;\n        margin-top:7px;\n        flex-shrink:0;\n      \"></span>\n      <span>Améliore la concentration et la mémoire</span>\n    </li>\n\n    <li style=\"display:flex;align-items:flex-start;gap:10px;\">\n      <span style=\"\n        width:8px;height:8px;\n        background:#121212;\n        border-radius:50%;\n        margin-top:7px;\n        flex-shrink:0;\n      \"></span>\n      <span>Renforce les liens familiaux</span>\n    </li>\n\n    <li style=\"display:flex;align-items:flex-start;gap:10px;\">\n      <span style=\"\n        width:8px;height:8px;\n        background:#121212;\n        border-radius:50%;\n        margin-top:7px;\n        flex-shrink:0;\n      \"></span>\n      <span>Fonctionne sans piles, sans écran</span>\n    </li>\n  </ul>\n</div>"
           }
         },
+        "quantity_selector_MVnQfQ": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+            "full_width_classic": false,
+            "atc_append": "none",
+            "atc_append_heights": "stretch-quantity",
+            "enable_quantity_discounts": true,
+            "style": "vertical",
+            "headline": "",
+            "preselected": "option_1",
+            "display_selected_indicator": true,
+            "border_radius": 10,
+            "border_width": 2,
+            "color_scheme": "outline-button",
+            "enable_variant_selectors": true,
+            "enable_variant_selectors_on_quantity_of_1": true,
+            "update_prices": true,
+            "skip_unavailable": false,
+            "full_width_pickers": false,
+            "hide_pickers_overlay": true,
+            "pickers_label": "",
+            "image_width": 70,
+            "space_images": true,
+            "vertical_images_position": "top",
+            "vertical_prices_layout": "vertical",
+            "option_1_quantity": 1,
+            "option_1_badge": "",
+            "option_1_badge_style": "1",
+            "option_1_badge_color": "accent-1",
+            "option_1_label": "Buy [quantity]",
+            "option_1_benefit": "",
+            "option_1_benefit_position": "top",
+            "option_1_benefit_style": "outlined",
+            "option_1_benefit_color": "accent-1",
+            "option_1_caption": "You save [amount_saved]",
+            "option_1_percentage_off_text": "0",
+            "option_1_fixed_amount_off": "0",
+            "option_1_price_text": "[price]",
+            "option_1_compare_price": "compare_price",
+            "option_1_compare_price_text": "[compare_price]",
+            "option_2_quantity": 2,
+            "option_2_badge": "",
+            "option_2_badge_style": "1",
+            "option_2_badge_color": "accent-1",
+            "option_2_image": "shopify://shop_images/4_42b65ac4-a964-44ef-b44b-82326528a70c.webp",
+            "option_2_label": "Pack DUO — Idéal pour les fratries !",
+            "option_2_benefit": "",
+            "option_2_benefit_style": "outlined",
+            "option_2_benefit_color": "accent-1",
+            "option_2_caption": "Idéal pour les fratries ! [amount_saved]",
+            "option_2_percentage_off_text": "0",
+            "option_2_fixed_amount_off": "0",
+            "option_2_price_text": "[price]",
+            "option_2_compare_price": "compare_price",
+            "option_2_compare_price_text": "[compare_price]",
+            "option_3_quantity": 3,
+            "option_3_badge": "",
+            "option_3_badge_style": "1",
+            "option_3_badge_color": "accent-1",
+            "option_3_label": "Buy [quantity]",
+            "option_3_benefit": "",
+            "option_3_benefit_style": "outlined",
+            "option_3_benefit_color": "accent-1",
+            "option_3_caption": "You save [amount_saved]",
+            "option_3_percentage_off_text": "0",
+            "option_3_fixed_amount_off": "0",
+            "option_3_price_text": "[price]",
+            "option_3_compare_price": "compare_price",
+            "option_3_compare_price_text": "[compare_price]",
+            "option_4_quantity": 4,
+            "option_4_badge": "",
+            "option_4_badge_style": "1",
+            "option_4_badge_color": "accent-1",
+            "option_4_label": "Buy [quantity]",
+            "option_4_benefit": "",
+            "option_4_benefit_style": "outlined",
+            "option_4_benefit_color": "accent-1",
+            "option_4_caption": "You save [amount_saved]",
+            "option_4_percentage_off_text": "0",
+            "option_4_fixed_amount_off": "0",
+            "option_4_price_text": "[price]",
+            "option_4_compare_price": "compare_price",
+            "option_4_compare_price_text": "[compare_price]",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
         "price": {
           "type": "price",
           "disabled": true,
@@ -254,6 +342,7 @@
         "text_WtWwz8",
         "a6eb81db-40e4-43e0-972f-32db010a4a56",
         "custom_liquid_cpLQDY",
+        "quantity_selector_MVnQfQ",
         "price",
         "divider_M6tM9n",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
@@ -330,6 +419,109 @@
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 24
+      }
+    },
+    "eba88da5-80ac-47fc-aa75-997cfe7b2e59": {
+      "type": "image-slider",
+      "blocks": {
+        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-2": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/5.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-4": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/3.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-1": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/4.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_HPVt86": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/1.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-3": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/2.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        }
+      },
+      "block_order": [
+        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-2",
+        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-4",
+        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-1",
+        "image_slide_HPVt86",
+        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-3"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Ils parlent de <strong>Ludiko.</strong>",
+        "title_highlight_color": "#fcde4f",
+        "heading_size": "h2",
+        "color_scheme": "background-1",
+        "type": "slide",
+        "drag": "disabled",
+        "autoplay": true,
+        "autoplay_speed": 3,
+        "center_mode": false,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "desktop_border_radius": 0,
+        "slides_desktop": 3,
+        "per_move_desktop": 1,
+        "desktop_spacing": 28,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "mobile_full_page": true,
+        "mobile_border_radius": 0,
+        "slides_mobile": 3,
+        "per_move_mobile": 1,
+        "mobile_spacing": 12,
+        "mobile_side_padding": 0,
+        "mobile_padding_calc": true,
+        "mobile_adaptive_height": true,
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "hidden",
+        "padding_top": 4,
+        "padding_bottom": 4,
+        "custom_colors_background": "#f8f8f8",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
       }
     },
     "8beb6911-28c6-482c-976a-e5421ad3e8df": {
@@ -494,94 +686,6 @@
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d"
-      }
-    },
-    "eba88da5-80ac-47fc-aa75-997cfe7b2e59": {
-      "type": "image-slider",
-      "blocks": {
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-1": {
-          "type": "image_slide",
-          "settings": {
-            "link": "",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-2": {
-          "type": "image_slide",
-          "settings": {
-            "link": "",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-3": {
-          "type": "image_slide",
-          "settings": {
-            "link": "",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-4": {
-          "type": "image_slide",
-          "settings": {
-            "link": "",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        }
-      },
-      "block_order": [
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-1",
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-2",
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-3",
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-4"
-      ],
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "Image/Video Slider",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
-        "color_scheme": "background-1",
-        "type": "slide",
-        "drag": "enabled",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "center_mode": false,
-        "arrows_color_scheme": "inverse",
-        "transparent_arrows": false,
-        "dots_color_scheme": "inverse",
-        "desktop_full_page": false,
-        "desktop_border_radius": 0,
-        "slides_desktop": 3,
-        "per_move_desktop": 1,
-        "desktop_spacing": 28,
-        "desktop_side_padding": 0,
-        "desktop_padding_calc": true,
-        "desktop_adaptive_height": false,
-        "desktop_dots_position": "under",
-        "desktop_arrows_position": "sides",
-        "mobile_full_page": false,
-        "mobile_border_radius": 0,
-        "slides_mobile": 2,
-        "per_move_mobile": 1,
-        "mobile_spacing": 12,
-        "mobile_side_padding": 0,
-        "mobile_padding_calc": true,
-        "mobile_adaptive_height": false,
-        "mobile_dots_position": "under",
-        "mobile_arrows_position": "sides",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#121212"
       }
     },
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a": {
@@ -770,8 +874,8 @@
   "order": [
     "main",
     "related-products",
-    "8beb6911-28c6-482c-976a-e5421ad3e8df",
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
+    "8beb6911-28c6-482c-976a-e5421ad3e8df",
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f",
     "b321ab88-2b59-4dba-bade-54885c874ca5"
