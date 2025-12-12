@@ -38,6 +38,7 @@
         "sections--18060430639399__2c2ec774-3430-481f-b927-e9c035b9d24e-1679250655d32e639c-1",
         "sections--18060430639399__2c2ec774-3430-481f-b927-e9c035b9d24e-1679250655d32e639c-2"
       ],
+      "disabled": true,
       "settings": {
         "visibility": "always-display",
         "speed": 1,
@@ -45,7 +46,7 @@
         "stop_on_hover": false,
         "mobile_spacing": 50,
         "desktop_spacing": 32,
-        "color_scheme": "accent-1",
+        "color_scheme": "custom",
         "mobile_text_size": 12,
         "desktop_text_size": 16,
         "italic_text": false,
@@ -62,9 +63,9 @@
         "mobile_padding_bottom": 8,
         "desktop_padding_top": 8,
         "desktop_padding_bottom": 8,
-        "custom_colors_background": "#e6632a",
+        "custom_colors_background": "#121212",
         "custom_gradient_background": "",
-        "custom_colors_text": "#ffffff"
+        "custom_colors_text": "#fcde4f"
       }
     },
     "fe1c8c67-b84c-4466-a515-70df3134c1c0": {
@@ -120,7 +121,7 @@
       "settings": {
         "sticky_header_type": "always",
         "show_line_separator": false,
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "logo_link": "/",
         "logo_position": "middle-center",
         "menu": "main-menu",
