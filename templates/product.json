@@ -25,6 +25,22 @@
         "padding_bottom": 0
       }
     },
+    "section_divider_Mf78UF": {
+      "type": "section-divider",
+      "name": "Section divider",
+      "settings": {
+        "visibility": "always-display",
+        "shape": "curved_1",
+        "flip_horizontal": false,
+        "flip_vertical": false,
+        "shape_color": "accent-1",
+        "custom_shape_color": "#dd1d1d",
+        "background_color": "background-1",
+        "custom_background_color": "#FFFFFF",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -369,7 +385,7 @@
         "mobile_media_corner_radius": 0,
         "mobile_spacing_pixels": 0,
         "mobile_arrows_position": "pagination",
-        "mobile_pagination": "dots_overlay",
+        "mobile_pagination": "hidden",
         "mobile_thumbnails": "show",
         "mobile_thumbnails_count": 5,
         "mobile_scroll_padding_percentage": 0,
@@ -638,7 +654,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "color_scheme": "custom",
+        "color_scheme": "accent-1",
         "columns_count": 4,
         "column_gap_desktop": 40,
         "row_gap_desktop": 40,
@@ -672,6 +688,22 @@
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "section_divider_FTGQ4A": {
+      "type": "section-divider",
+      "name": "Section divider",
+      "settings": {
+        "visibility": "always-display",
+        "shape": "curved_1",
+        "flip_horizontal": false,
+        "flip_vertical": true,
+        "shape_color": "accent-1",
+        "custom_shape_color": "#dd1d1d",
+        "background_color": "background-1",
+        "custom_background_color": "#FFFFFF",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a": {
@@ -859,10 +891,12 @@
   },
   "order": [
     "section_divider_yF4JFb",
+    "section_divider_Mf78UF",
     "main",
     "related-products",
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
     "8beb6911-28c6-482c-976a-e5421ad3e8df",
+    "section_divider_FTGQ4A",
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f",
     "b321ab88-2b59-4dba-bade-54885c874ca5"
