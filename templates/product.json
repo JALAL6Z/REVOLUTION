@@ -304,36 +304,6 @@
           "settings": {
             "custom_liquid": "<style>\n.faq-ludiko details {\n  background: #F8F8F8;\n  border-radius: 12px;\n  padding: 12px 16px;\n  margin-bottom: 10px;\n  cursor: pointer;\n  border: 1px solid #E8E8E8;\n  transition: 0.2s ease;\n}\n\n.faq-ludiko summary {\n  font-weight: 600;\n  font-size: 14px;\n  color: #121212;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n}\n\n.faq-ludiko summary::-webkit-details-marker {\n  display: none;\n}\n\n.faq-ludiko summary:after {\n  content: \"+\";\n  font-size: 18px;\n  font-weight: 600;\n  opacity: 0.6;\n}\n\n.faq-ludiko details[open] summary:after {\n  content: \"-\";\n}\n\n.faq-ludiko .faq-answer {\n  margin-top: 8px;\n  font-size: 14px;\n  color: #333;\n  line-height: 1.4;\n}\n</style>\n\n<div class=\"faq-ludiko\">\n\n  <details>\n    <summary>Quand vais-je recevoir ma commande ?</summary>\n    <div class=\"faq-answer\">\n      Les commandes sont expédiées sous 24 à 48h. La livraison prend\n      <strong>4 à 7 jours ouvrés</strong>. Vous recevrez un numéro de suivi.\n    </div>\n  </details>\n\n  <details>\n    <summary>À partir de quel âge le jeu est-il adapté ?</summary>\n    <div class=\"faq-answer\">\n      Le jeu est adapté dès <strong>6 ans</strong> et apprécié par toute la famille.\n    </div>\n  </details>\n\n  <details>\n    <summary>Le jeu aide-t-il vraiment à la réflexion ?</summary>\n    <div class=\"faq-answer\">\n      Oui, il stimule la <strong>logique, la concentration et l’anticipation</strong>.\n    </div>\n  </details>\n\n  <details>\n    <summary>Faut-il des piles ?</summary>\n    <div class=\"faq-answer\">\n      Non, le jeu fonctionne <strong>sans piles et sans écran</strong>.\n    </div>\n  </details>\n\n  <details>\n    <summary>Est-ce une bonne idée de cadeau ?</summary>\n    <div class=\"faq-answer\">\n      Oui, c’est l’un des jeux éducatifs préférés des familles en <strong>2025</strong>.\n    </div>\n  </details>\n\n  <details>\n    <summary>Puis-je retourner le produit ?</summary>\n    <div class=\"faq-answer\">\n      Oui, vous bénéficiez de notre garantie <strong>30 jours satisfait ou remboursé</strong>.\n    </div>\n  </details>\n\n</div>"
           }
-        },
-        "reviews_qLM9Tf": {
-          "type": "reviews",
-          "settings": {
-            "color_scheme": "background-1",
-            "show_custom_bg": true,
-            "custom_bg_color": "#f8f8f8",
-            "corner_radius": 12,
-            "border_width": 0,
-            "border_color": "#b7b7b7",
-            "avatar_alignment": "top",
-            "avatar_corner_radius": 40,
-            "star_color": "#3ab084",
-            "stars_translate": 0,
-            "checkmark_color": "#3ab084",
-            "checkmark_icon_color": "#3ab084",
-            "slider_type": "slide",
-            "autoplay": false,
-            "autoplay_speed": 5,
-            "display_arrows": false,
-            "display_dots": true,
-            "author_1": "<em>Author</em> [stars]",
-            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>",
-            "author_2": "<em>Author</em> [stars]",
-            "text_2": "<p>Share positive thoughts and feedback from your customer.</p>",
-            "author_3": "<em>Author</em> [stars]",
-            "text_3": "<p>Share positive thoughts and feedback from your customer.</p>",
-            "margin_top": 15,
-            "margin_bottom": 24
-          }
         }
       },
       "block_order": [
@@ -351,8 +321,7 @@
         "payment_badges_KpM93x",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "custom_liquid_MKEkWy",
-        "custom_liquid_CCEqmA",
-        "reviews_qLM9Tf"
+        "custom_liquid_CCEqmA"
       ],
       "custom_css": [],
       "settings": {
@@ -489,10 +458,10 @@
         "title_highlight_color": "#fcde4f",
         "heading_size": "h2",
         "color_scheme": "background-1",
-        "type": "slide",
+        "type": "loop",
         "drag": "disabled",
         "autoplay": true,
-        "autoplay_speed": 3,
+        "autoplay_speed": 2.5,
         "center_mode": false,
         "arrows_color_scheme": "inverse",
         "transparent_arrows": true,
@@ -518,7 +487,7 @@
         "mobile_dots_position": "hidden",
         "mobile_arrows_position": "hidden",
         "padding_top": 4,
-        "padding_bottom": 4,
+        "padding_bottom": 32,
         "custom_colors_background": "#f8f8f8",
         "custom_gradient_background": "",
         "custom_colors_text": "#121212"
