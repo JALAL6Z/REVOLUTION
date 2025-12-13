@@ -72,6 +72,7 @@
         },
         "text_WtWwz8": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "mobile_text_size": 13,
             "desktop_text_size": 16,
