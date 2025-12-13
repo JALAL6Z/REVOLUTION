@@ -56,7 +56,7 @@
             "padding": 2,
             "border_size": 0,
             "border_color": "#b7b7b7",
-            "margin_top": 27,
+            "margin_top": 30,
             "margin_bottom": 0
           }
         },
@@ -67,7 +67,20 @@
             "title_alignment": "left",
             "uppercase_title": true,
             "margin_top": 0,
-            "margin_bottom": 0
+            "margin_bottom": 3
+          }
+        },
+        "divider_mk3tj3": {
+          "type": "divider",
+          "settings": {
+            "color": "#e1e1e1",
+            "height": 1,
+            "width": 100,
+            "Full_mobile_width": false,
+            "alignment": "center",
+            "border_radius": 0,
+            "margin_top": 15,
+            "margin_bottom": 15
           }
         },
         "text_WtWwz8": {
@@ -352,6 +365,7 @@
       "block_order": [
         "text_tpxfPU",
         "title",
+        "divider_mk3tj3",
         "text_WtWwz8",
         "a6eb81db-40e4-43e0-972f-32db010a4a56",
         "custom_liquid_cpLQDY",
