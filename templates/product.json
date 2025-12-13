@@ -412,6 +412,39 @@
         "desktop_padding_bottom": 36
       }
     },
+    "rich_text_T3H78y": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yjJ47e": {
+          "type": "heading",
+          "settings": {
+            "title": "Talk about your brand",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yjJ47e"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -457,6 +490,7 @@
         "video_slide_C7eP8x": {
           "type": "video_slide",
           "settings": {
+            "video": "shopify://files/videos/@r07qxo - R⤓Download.mov",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -474,6 +508,7 @@
         "video_slide_W7RHzP": {
           "type": "video_slide",
           "settings": {
+            "video": "shopify://files/videos/@r07qxo - R⤓Download.MP4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -498,17 +533,17 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Image/Video slider",
+        "title": "",
         "title_highlight_color": "#6D388B",
         "heading_size": "h1",
         "color_scheme": "background-1",
-        "type": "slide",
+        "type": "loop",
         "drag": "enabled",
-        "autoplay": false,
-        "autoplay_speed": 5,
+        "autoplay": true,
+        "autoplay_speed": 2.5,
         "center_mode": false,
-        "arrows_color_scheme": "inverse",
-        "transparent_arrows": false,
+        "arrows_color_scheme": "background-1",
+        "transparent_arrows": true,
         "dots_color_scheme": "inverse",
         "desktop_full_page": false,
         "desktop_border_radius": 0,
@@ -524,14 +559,14 @@
         "mobile_border_radius": 0,
         "slides_mobile": 2,
         "per_move_mobile": 1,
-        "mobile_spacing": 12,
+        "mobile_spacing": 10,
         "mobile_side_padding": 0,
         "mobile_padding_calc": true,
         "mobile_adaptive_height": false,
-        "mobile_dots_position": "under",
+        "mobile_dots_position": "hidden",
         "mobile_arrows_position": "sides",
-        "padding_top": 36,
-        "padding_bottom": 36,
+        "padding_top": 4,
+        "padding_bottom": 12,
         "custom_colors_background": "#FFFFFF",
         "custom_gradient_background": "",
         "custom_colors_text": "#121212"
@@ -1023,6 +1058,7 @@
   "order": [
     "section_divider_yF4JFb",
     "main",
+    "rich_text_T3H78y",
     "related-products",
     "image_slider_GLQ8yF",
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
