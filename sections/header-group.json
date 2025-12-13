@@ -90,8 +90,8 @@
         "mobile_logo_position": "center",
         "display_search": true,
         "margin_bottom": 0,
-        "padding_top": 8,
-        "padding_bottom": 8
+        "padding_top": 4,
+        "padding_bottom": 4
       }
     },
     "ss_whatsapp_button_PnJ3Hn": {
