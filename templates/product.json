@@ -418,9 +418,9 @@
         "heading_yjJ47e": {
           "type": "heading",
           "settings": {
-            "title": "Talk about your brand",
-            "title_highlight_color": "#6D388B",
-            "heading_size": "h1"
+            "title": "ILS L’ONT <strong>ADOPTÉ</strong>, LEURS ENFANTS EN <strong>RAFFOLENT</strong>",
+            "title_highlight_color": "#fcde4f",
+            "heading_size": "h2"
           }
         }
       },
@@ -435,8 +435,8 @@
         "content_alignment": "center",
         "full_width": true,
         "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52,
+        "padding_top": 0,
+        "padding_bottom": 12,
         "custom_colors_background": "#FFFFFF",
         "custom_gradient_background": "",
         "custom_colors_text": "#2E2A39",
