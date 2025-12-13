@@ -11,55 +11,6 @@
   "name": "t:sections.header.name",
   "type": "header",
   "sections": {
-    "2c2ec774-3430-481f-b927-e9c035b9d24e": {
-      "type": "horizontal-ticker",
-      "blocks": {
-        "sections--18060430639399__2c2ec774-3430-481f-b927-e9c035b9d24e-1679250655d32e639c-0": {
-          "type": "text",
-          "settings": {
-            "title": "Élu meilleur jeu de logique 2025"
-          }
-        },
-        "sections--18060430639399__2c2ec774-3430-481f-b927-e9c035b9d24e-1679250655d32e639c-2": {
-          "type": "text",
-          "settings": {
-            "title": "Livraison rapide + retours faciles"
-          }
-        }
-      },
-      "block_order": [
-        "sections--18060430639399__2c2ec774-3430-481f-b927-e9c035b9d24e-1679250655d32e639c-0",
-        "sections--18060430639399__2c2ec774-3430-481f-b927-e9c035b9d24e-1679250655d32e639c-2"
-      ],
-      "settings": {
-        "visibility": "always-display",
-        "speed": 1,
-        "direction": "normal",
-        "stop_on_hover": false,
-        "mobile_spacing": 50,
-        "desktop_spacing": 32,
-        "color_scheme": "custom",
-        "mobile_text_size": 12,
-        "desktop_text_size": 16,
-        "italic_text": false,
-        "uppercase_text": true,
-        "bold_text": true,
-        "mobile_image_height": 26,
-        "desktop_image_height": 40,
-        "mobile_reviews_width": 300,
-        "desktop_reviews_width": 400,
-        "hidden_products": "",
-        "enable_specific_display": false,
-        "displayed_products": "",
-        "mobile_padding_top": 8,
-        "mobile_padding_bottom": 8,
-        "desktop_padding_top": 8,
-        "desktop_padding_bottom": 8,
-        "custom_colors_background": "#121212",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#fcde4f"
-      }
-    },
     "horizontal_ticker_k7zBdn": {
       "type": "horizontal-ticker",
       "blocks": {
@@ -72,13 +23,13 @@
         "text_bqTMeF": {
           "type": "text",
           "settings": {
-            "title": "Shrine Theme"
+            "title": "STOCKS PRESQUE épuisés"
           }
         },
         "text_UppJit": {
           "type": "text",
           "settings": {
-            "title": "Shrine Theme"
+            "title": "🎄 OFFRE DE NOêl : JUSQU'à 40% de réduction !"
           }
         }
       },
@@ -90,17 +41,17 @@
       "name": "Horizontal Ticker",
       "settings": {
         "visibility": "always-display",
-        "speed": 3,
+        "speed": 2.5,
         "direction": "normal",
         "stop_on_hover": false,
-        "mobile_spacing": 60,
+        "mobile_spacing": 50,
         "desktop_spacing": 100,
         "color_scheme": "custom",
-        "mobile_text_size": 13,
+        "mobile_text_size": 11,
         "desktop_text_size": 18,
         "italic_text": false,
-        "uppercase_text": false,
-        "bold_text": false,
+        "uppercase_text": true,
+        "bold_text": true,
         "mobile_image_height": 26,
         "desktop_image_height": 40,
         "mobile_reviews_width": 300,
@@ -167,7 +118,6 @@
     }
   },
   "order": [
-    "2c2ec774-3430-481f-b927-e9c035b9d24e",
     "horizontal_ticker_k7zBdn",
     "header",
     "ss_whatsapp_button_PnJ3Hn"
