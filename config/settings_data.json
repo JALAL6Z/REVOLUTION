@@ -751,7 +751,8 @@
       " /* Enlève le gras des titres des accordéons */.accordion__title,.collapsible-trigger,.collapsible-trigger__heading,.collapsible-trigger__text {font-weight: normal !important;}",
       " /* Enlève le gras du texte à l'intérieur des sections */.accordion__content,.collapsible-content,.collapsible-content p {font-weight: normal !important;}",
       " /* FAQ / Accordéons : enlever le gras du titre */details summary,.accordion__title,.collapsible-trigger,.collapsible-trigger__heading {font-weight: 400 !important; font-size: 12px !important;}",
-      " /* Texte à l’intérieur de l’accordéon */details .accordion__content,.accordion__content,.collapsible-content,.collapsible-content p {font-size: 11px !important; line-height: 1.6 !important; font-weight: 400 !important;}"
+      " /* Texte à l’intérieur de l’accordéon */details .accordion__content,.accordion__content,.collapsible-content,.collapsible-content p {font-size: 11px !important; line-height: 1.6 !important; font-weight: 400 !important;}",
+      "/* Comparison table – réduire la taille de la police */.comparison-table,.comparison-table th,.comparison-table td {font-size: 13px !important;}"
     ]
   }
 }
