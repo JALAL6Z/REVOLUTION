@@ -791,7 +791,7 @@
         "heading_pjQmj9": {
           "type": "heading",
           "settings": {
-            "title": "ILS L’ONT <strong>ADOPTÉ</strong>, LEURS ENFANTS EN <strong>RAFFOLENT</strong>",
+            "title": "DES <strong>MOMENTS</strong> QUI <strong>COMPTENT</strong>",
             "title_highlight_color": "#fcde4f",
             "heading_size": "h2"
           }
@@ -901,8 +901,8 @@
         "mobile_adaptive_height": false,
         "mobile_dots_position": "under",
         "mobile_arrows_position": "hidden",
-        "padding_top": 36,
-        "padding_bottom": 36,
+        "padding_top": 16,
+        "padding_bottom": 28,
         "custom_colors_background": "#FFFFFF",
         "custom_gradient_background": "",
         "custom_colors_text": "#2E2A39",
