@@ -336,6 +336,38 @@
             "margin_bottom": 0
           }
         },
+        "collapsible_tab_4EmwTn": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "À partir de quel âge le jeu est-il adapté ?",
+            "heading_size": "small",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": true,
+            "content": "<p>Le jeu est adapté dés <strong>6 ans</strong> et apprécié par toute la famille</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_dQfp6m": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Le jeu aide-t-il vraiment à la réflexion ?",
+            "heading_size": "small",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": true,
+            "content": "<p>Oui, il stimule <strong>la logique, la concentration et l'anticipation</strong></p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
         "custom_liquid_CCEqmA": {
           "type": "custom_liquid",
           "settings": {
@@ -359,6 +391,8 @@
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "custom_liquid_MKEkWy",
         "collapsible_tab_KWNaEx",
+        "collapsible_tab_4EmwTn",
+        "collapsible_tab_dQfp6m",
         "custom_liquid_CCEqmA"
       ],
       "custom_css": [],
