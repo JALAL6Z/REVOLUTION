@@ -368,6 +368,54 @@
             "margin_bottom": 0
           }
         },
+        "collapsible_tab_zYYAqy": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Faut-il des piles ?",
+            "heading_size": "small",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": true,
+            "content": "<p>Non, le jeu fonctionne <strong>sans piles et sans écran</strong></p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_a3nin3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Est-ce une bonne idée de cadeau ?",
+            "heading_size": "small",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": true,
+            "content": "<p>Oui, c'est l'un des jeux éducatifs préférés des familles en <strong>2025</strong></p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_QqFzrn": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Satisfait ou remboursé",
+            "heading_size": "small",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": true,
+            "content": "<p>Vous bénéficiez de notre garantie <strong>30 jours satisfait ou remboursé</strong></p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
         "custom_liquid_CCEqmA": {
           "type": "custom_liquid",
           "settings": {
@@ -393,6 +441,9 @@
         "collapsible_tab_KWNaEx",
         "collapsible_tab_4EmwTn",
         "collapsible_tab_dQfp6m",
+        "collapsible_tab_zYYAqy",
+        "collapsible_tab_a3nin3",
+        "collapsible_tab_QqFzrn",
         "custom_liquid_CCEqmA"
       ],
       "custom_css": [],
