@@ -317,7 +317,7 @@
         "custom_liquid_MKEkWy": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"margin-top: 5px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0937/6360/0712/files/Capture_d_ecran_2025-12-14_a_14.24.34.png?v=1765718701\" style=\"width: 100%; margin-bottom: 10px;\">"
+            "custom_liquid": "<div style=\"margin-top: 5px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0937/6360/0712/files/Capture_d_ecran_2025-12-14_a_14.24.34.png?v=1765718701\" style=\"width: 100%; margin-bottom: 14px;\">"
           }
         },
         "collapsible_tab_KWNaEx": {
@@ -329,8 +329,8 @@
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
-            "open": false,
-            "content": "<p>Les commandes sont expédiées sous 24</p>",
+            "open": true,
+            "content": "<p>Les commandes sont expédiées sous 24 à 48h. La livraison prend<strong> 4 à 7 jours ouvrés</strong>. Vous recevrez un numéro de suivi</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
