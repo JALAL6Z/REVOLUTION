@@ -835,6 +835,7 @@
         "column_3dGB4z": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-12-14_a_16.06.00.png",
             "muted_autoplay": true,
             "title": "Column",
             "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
