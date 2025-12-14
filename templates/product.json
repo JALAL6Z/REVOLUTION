@@ -837,18 +837,8 @@
           "settings": {
             "image": "shopify://shop_images/Capture_d_ecran_2025-12-14_a_16.06.00.png",
             "muted_autoplay": true,
-            "title": "Column",
-            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_yCU7eq": {
-          "type": "column",
-          "settings": {
-            "muted_autoplay": true,
-            "title": "Column",
-            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "CONÇU POUR LES ESPRITS CURIEUX",
+            "text": "<p>Sans défilement, sans distraction. Nous combinons logique, motricité fine et retours intelligents pour créer des jeux qui stimulent le cerveau et font apprendre en s’amusant.</p>",
             "link_label": "",
             "link": ""
           }
@@ -856,8 +846,7 @@
       },
       "block_order": [
         "column_Ln3TiP",
-        "column_3dGB4z",
-        "column_yCU7eq"
+        "column_3dGB4z"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
