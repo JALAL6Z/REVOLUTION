@@ -555,7 +555,7 @@
         "video_slide_GaARcH": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/542d8ae5137245fd89a4c09568ad13f8.HD-1080p-2.5Mbps-63470678.mov",
+            "video": "shopify://files/videos/eb3c563a67d0435186d390feb1b409f6.HD-1080p-2.5Mbps-63470960.mp4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -573,7 +573,7 @@
         "video_slide_C7eP8x": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/@r07qxo - R⤓Download.mov",
+            "video": "shopify://files/videos/aa4248f6c2da41aeabaabc07d3d6c063.HD-1080p-2.5Mbps-63470963.mp4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -591,7 +591,7 @@
         "video_slide_W7RHzP": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/@r07qxo - R⤓Download.MP4",
+            "video": "shopify://files/videos/85fe9a99e9214b3fb6ed7ec41f49f6b9.HD-1080p-2.5Mbps-63470958.mp4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -1239,7 +1239,7 @@
         "collapsible_row_KiGyJa"
       ],
       "custom_css": [
-        "/* Force FAQ titles to regular even if theme uses heading classes */details summary,.accordion summary,.accordion__title,summary .h1, summary .h2, summary .h3, summary .h4, summary .h5, summary .h6,summary [class*=\"h-\"],summary [class*=\"heading\"],summary [class*=\"title\"] {font-family: var(--font-body-family) !important; font-weight: 400 !important; text-transform: none !important;}"
+        "/* Force FAQ titles to regular even if theme uses heading classes */details summary,.accordion summary,.accordion__title,summary .h1,summary .h2,summary .h3,summary .h4,summary .h5,summary .h6,summary [class*=\"h-\"],summary [class*=\"heading\"],summary [class*=\"title\"] {font-family: var(--font-body-family) !important; font-weight: 400 !important; text-transform: none !important;}"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
