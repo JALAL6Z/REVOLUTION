@@ -57,7 +57,7 @@
             "border_size": 0,
             "border_color": "#b7b7b7",
             "margin_top": 30,
-            "margin_bottom": 0
+            "margin_bottom": 6
           }
         },
         "title": {
@@ -68,6 +68,21 @@
             "uppercase_title": true,
             "margin_top": 0,
             "margin_bottom": 3
+          }
+        },
+        "a6eb81db-40e4-43e0-972f-32db010a4a56": {
+          "type": "rating_stars",
+          "settings": {
+            "rating": 4.4,
+            "star_color": "#ffcc00",
+            "bg_stars_style": "full",
+            "bg_star_color": "#ececec",
+            "label": "Recommandé par +10 000 parents",
+            "size": 12,
+            "alignment": "flex-start",
+            "scroll_id": "",
+            "margin_top": 0,
+            "margin_bottom": 9
           }
         },
         "custom_liquid_JzxRx3": {
@@ -119,22 +134,6 @@
             "border_color": "#b7b7b7",
             "margin_top": 3,
             "margin_bottom": 0
-          }
-        },
-        "a6eb81db-40e4-43e0-972f-32db010a4a56": {
-          "type": "rating_stars",
-          "disabled": true,
-          "settings": {
-            "rating": 4.4,
-            "star_color": "#ffcc00",
-            "bg_stars_style": "full",
-            "bg_star_color": "#ececec",
-            "label": "Recommandé par +10 000 parents",
-            "size": 12,
-            "alignment": "flex-start",
-            "scroll_id": "",
-            "margin_top": 0,
-            "margin_bottom": 9
           }
         },
         "custom_liquid_cpLQDY": {
@@ -371,10 +370,10 @@
       "block_order": [
         "text_tpxfPU",
         "title",
+        "a6eb81db-40e4-43e0-972f-32db010a4a56",
         "custom_liquid_JzxRx3",
         "divider_mk3tj3",
         "text_WtWwz8",
-        "a6eb81db-40e4-43e0-972f-32db010a4a56",
         "custom_liquid_cpLQDY",
         "quantity_selector_MVnQfQ",
         "price",
