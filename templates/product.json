@@ -49,11 +49,11 @@
             "filled_icon_3": false,
             "width": "fit-content",
             "direction": "horizontal",
-            "column_gap": 1.5,
+            "column_gap": 1,
             "enable_bg": true,
             "bg_color": "#f3f3f3",
             "corner_radius": 15,
-            "padding": 2,
+            "padding": 1,
             "border_size": 0,
             "border_color": "#b7b7b7",
             "margin_top": 30,
@@ -320,6 +320,22 @@
             "custom_liquid": "<div style=\"margin-top: 5px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0937/6360/0712/files/Capture_d_ecran_2025-12-14_a_14.24.34.png?v=1765718701\" style=\"width: 100%; margin-bottom: 10px;\">"
           }
         },
+        "collapsible_tab_KWNaEx": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Quand vais-je recevoir ma commande ?",
+            "heading_size": "small",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>Les commandes sont expédiées sous 24</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
         "custom_liquid_CCEqmA": {
           "type": "custom_liquid",
           "settings": {
@@ -342,6 +358,7 @@
         "payment_badges_KpM93x",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "custom_liquid_MKEkWy",
+        "collapsible_tab_KWNaEx",
         "custom_liquid_CCEqmA"
       ],
       "custom_css": [],
