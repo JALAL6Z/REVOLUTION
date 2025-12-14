@@ -316,9 +316,8 @@
         },
         "custom_liquid_MKEkWy": {
           "type": "custom_liquid",
-          "disabled": true,
           "settings": {
-            "custom_liquid": "<div style=\"margin-top: 5px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0975/7363/4396/files/Capture_d_ecran_2025-12-09_a_13.22.01.png?v=1765282939\" style=\"width: 100%; margin-bottom: 10px;\">"
+            "custom_liquid": "<div style=\"margin-top: 5px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0937/6360/0712/files/Capture_d_ecran_2025-12-14_a_14.24.34.png?v=1765718701\" style=\"width: 100%; margin-bottom: 10px;\">"
           }
         },
         "custom_liquid_CCEqmA": {
