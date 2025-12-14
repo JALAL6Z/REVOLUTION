@@ -138,8 +138,15 @@
         },
         "custom_liquid_cpLQDY": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div style=\"\n  background:#FFF7BF;           /* jaune plus doux, plus premium */\n  border-radius:20px;           /* plus joué/jouet */\n  padding:14px 16px;\n  margin-top:10px;\n  font-family:Inter, system-ui, -apple-system, sans-serif;\n\">\n  <ul style=\"\n    list-style:none;\n    margin:0;\n    padding:0;\n    display:flex;\n    flex-direction:column;\n    gap:8px;\n    font-size:15px;\n    line-height:1.45;\n    color:#121212;\n  \">\n    <li style=\"display:flex;align-items:flex-start;gap:10px;\">\n      <span style=\"\n        width:8px;height:8px;\n        background:#121212;\n        border-radius:50%;\n        margin-top:7px;\n        flex-shrink:0;\n      \"></span>\n      <span>Favorise la réflexion et l’anticipation</span>\n    </li>\n\n    <li style=\"display:flex;align-items:flex-start;gap:10px;\">\n      <span style=\"\n        width:8px;height:8px;\n        background:#121212;\n        border-radius:50%;\n        margin-top:7px;\n        flex-shrink:0;\n      \"></span>\n      <span>Améliore la concentration et la mémoire</span>\n    </li>\n\n    <li style=\"display:flex;align-items:flex-start;gap:10px;\">\n      <span style=\"\n        width:8px;height:8px;\n        background:#121212;\n        border-radius:50%;\n        margin-top:7px;\n        flex-shrink:0;\n      \"></span>\n      <span>Renforce les liens familiaux</span>\n    </li>\n\n    <li style=\"display:flex;align-items:flex-start;gap:10px;\">\n      <span style=\"\n        width:8px;height:8px;\n        background:#121212;\n        border-radius:50%;\n        margin-top:7px;\n        flex-shrink:0;\n      \"></span>\n      <span>Fonctionne sans piles, sans écran</span>\n    </li>\n  </ul>\n</div>"
+          }
+        },
+        "custom_liquid_4HfQ6A": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Améliore la concentration et la mémoire</span>\n</li>\n<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Renforce les liens familiaux !</span>\n</li>\n<li style=\"display: flex; align-items: center; margin-bottom: 17px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Fonctionne sans piles, sans écran</span>\n</li>"
           }
         },
         "quantity_selector_MVnQfQ": {
@@ -375,6 +382,7 @@
         "divider_mk3tj3",
         "text_WtWwz8",
         "custom_liquid_cpLQDY",
+        "custom_liquid_4HfQ6A",
         "quantity_selector_MVnQfQ",
         "price",
         "divider_M6tM9n",
