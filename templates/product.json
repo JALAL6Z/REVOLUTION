@@ -915,91 +915,153 @@
         "custom_cards_colors_text": "#2E2A39"
       }
     },
-    "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a": {
-      "type": "icons-with-content",
+    "comparison_table_JDnHcr": {
+      "type": "comparison-table",
       "blocks": {
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-1": {
-          "type": "icon",
+        "row_i9WDXw": {
+          "type": "row",
           "settings": {
-            "icon": "check_circle",
-            "filled_icon": false,
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
+            "benefit": "Jeu intelligent qui stimule la réflexion",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
           }
         },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-2": {
-          "type": "icon",
+        "row_CTrncc": {
+          "type": "row",
           "settings": {
-            "icon": "check_circle",
-            "filled_icon": false,
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
+            "benefit": "Sans écran, sans défilement",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
           }
         },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-3": {
-          "type": "icon",
+        "row_8pkMyV": {
+          "type": "row",
           "settings": {
-            "icon": "check_circle",
-            "filled_icon": false,
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
+            "benefit": "Encourage le calme et la concentration",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
           }
         },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-heading-1": {
-          "type": "heading",
+        "row_ELM6gK": {
+          "type": "row",
           "settings": {
-            "title": "Content heading",
-            "title_highlight_color": "#6d388b",
-            "heading_size": "h1"
+            "benefit": "Apprentissage par le jeu",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
           }
         },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-text-1": {
-          "type": "text",
+        "row_FxNx9K": {
+          "type": "row",
           "settings": {
-            "text": "<p>Pair icons with content to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_style": "body"
+            "benefit": "Moments de partage en famille",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
           }
         },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-button-1": {
-          "type": "button",
+        "row_ic9Nb3": {
+          "type": "row",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
+            "benefit": "Évolue avec l’enfant",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_YkHyqF": {
+          "type": "row",
+          "settings": {
+            "benefit": "Approuvé par les parents",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
           }
         }
       },
       "block_order": [
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-1",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-2",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-3",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-heading-1",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-text-1",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-button-1"
+        "row_i9WDXw",
+        "row_CTrncc",
+        "row_8pkMyV",
+        "row_ELM6gK",
+        "row_FxNx9K",
+        "row_ic9Nb3",
+        "row_YkHyqF"
       ],
+      "name": "Comparison table",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
+        "title": "",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "text": "",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "desktop_alignment": "center",
+        "mobile_alignment": "center",
         "color_scheme": "background-1",
-        "icon_size": "m",
-        "icon_position": "next-to-title",
-        "icon_color": "accent-1",
-        "icon_heading_size": "h3",
-        "icon_text_alignment": "left",
-        "icons_desktop_layout": "1-column",
-        "icons_mobile_layout": "1-column",
-        "desktop_content_alignment": "left",
-        "layout": "image_first",
-        "mobile_layout": "text_first",
-        "hide_content_on_mobile": false,
+        "layout": "table_second",
+        "style": "centered",
+        "corner_radius": 20,
+        "number_of_competitors": 1,
+        "us_label": "[shop_name]",
+        "us_label_size": 18,
+        "logo": "shopify://shop_images/8ea09953c14386df435e4ef3a85fde6e.webp",
+        "logo_width": 90,
+        "mobile_logo_width": 60,
+        "others_label": "AUTRES",
+        "others_label_size": 18,
+        "others_logo_width": 90,
+        "others_mobile_logo_width": 60,
+        "others_2_label": "Competitor 2",
+        "others_2_label_size": 18,
+        "others_2_logo_width": 90,
+        "others_2_mobile_logo_width": 60,
+        "others_3_label": "Competitor 3",
+        "others_3_label_size": 18,
+        "others_3_logo_width": 90,
+        "others_3_mobile_logo_width": 60,
+        "checkmark_style": "regular",
+        "checkmark_color": "#ffffff",
+        "checkmark_bg_color": "#53AF01",
+        "x_style": "regular",
+        "x_color": "#121212",
+        "x_bg_color": "#DBDBDB",
+        "opposite_icon_colors": "original",
+        "highlighted_color_scheme": "custom",
+        "highlighted_separator_opacity": 0,
+        "highlighted_overlay_opacity": 0,
+        "other_cells_color_scheme": "background-1",
+        "regular_separator_opacity": 10,
+        "regular_overlay_opacity": 0,
+        "minimalistic_border_opacity": 16,
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
+        "custom_colors_background": "#FFFFFF",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2e2a39",
+        "custom_colors_text": "#2E2A39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
-        "custom_colors_outline_button": "#dd1d1d"
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_colors_highlighted_background": "#fcde4fff",
+        "custom_colors_highlighted_text": "#FFFFFF",
+        "custom_colors_others_background": "#FFFFFF",
+        "custom_colors_others_text": "#2E2A39"
       }
     },
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f": {
@@ -1093,7 +1155,7 @@
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
     "rich_text_EiCTe6",
     "multicolumn_6izrNF",
-    "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
+    "comparison_table_JDnHcr",
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f"
   ]
 }
