@@ -46,29 +46,26 @@
         "1c647602-cc00-4009-a058-976435c8ee9e": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
-            "menu": "footer",
+            "heading": "Menu",
+            "menu": "main-menu",
             "width_desktop": 4,
             "width_mobile": "1"
           }
         },
-        "24f208fd-0898-43eb-af23-d74f8420ab37": {
-          "type": "email_signup",
+        "link_list_JG9wgR": {
+          "type": "link_list",
           "settings": {
-            "heading": "Subscribe to our emails",
-            "subtext": "<p>Join our email list for exclusive offers and the latest news.</p>",
-            "button_type": "solid",
-            "button_label": "Sign up",
-            "button_style_secondary": false,
-            "width_desktop": 4,
-            "width_mobile": "2"
+            "heading": "Information",
+            "menu": "footer",
+            "width_desktop": 3,
+            "width_mobile": "1"
           }
         }
       },
       "block_order": [
         "fc645871-d789-4cfa-8584-4f8a29b6ce92",
         "1c647602-cc00-4009-a058-976435c8ee9e",
-        "24f208fd-0898-43eb-af23-d74f8420ab37"
+        "link_list_JG9wgR"
       ],
       "settings": {
         "color_scheme": "custom",
@@ -78,14 +75,14 @@
         "enable_language_selector": true,
         "payment_enable": false,
         "enabled_payment_types": "",
-        "show_policy": false,
+        "show_policy": true,
         "branding_text": "Par Révolution Ecom",
         "margin_top": 0,
         "padding_top": 32,
         "padding_bottom": 20,
         "custom_colors_background": "#121212",
         "custom_gradient_background": "linear-gradient(127deg, rgba(254, 249, 222, 1) 19%, rgba(252, 222, 79, 1) 81%)",
-        "custom_colors_text": "#ffffff",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#ffffff",
         "custom_colors_solid_button_text": "#121212",
         "custom_colors_outline_button": "#ffffff"
