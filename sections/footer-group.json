@@ -43,6 +43,18 @@
             "width_mobile": "2"
           }
         },
+        "email_signup_QAypJ8": {
+          "type": "email_signup",
+          "settings": {
+            "heading": "Des jeux qui font grandir les esprits",
+            "subtext": "<p>Recevez nos idées de jeux intelligents, conseils éducatifs et offres exclusives pour apprendre en s’amusant, en famille.</p>",
+            "button_type": "solid",
+            "button_label": "Rejoindre l’univers Ludiko",
+            "button_style_secondary": false,
+            "width_desktop": 3,
+            "width_mobile": "2"
+          }
+        },
         "1c647602-cc00-4009-a058-976435c8ee9e": {
           "type": "link_list",
           "settings": {
@@ -57,13 +69,14 @@
           "settings": {
             "heading": "Information",
             "menu": "footer",
-            "width_desktop": 3,
+            "width_desktop": 4,
             "width_mobile": "1"
           }
         }
       },
       "block_order": [
         "fc645871-d789-4cfa-8584-4f8a29b6ce92",
+        "email_signup_QAypJ8",
         "1c647602-cc00-4009-a058-976435c8ee9e",
         "link_list_JG9wgR"
       ],
@@ -73,18 +86,18 @@
         "show_social": false,
         "enable_country_selector": false,
         "enable_language_selector": true,
-        "payment_enable": false,
+        "payment_enable": true,
         "enabled_payment_types": "",
-        "show_policy": true,
+        "show_policy": false,
         "branding_text": "Par Révolution Ecom",
         "margin_top": 0,
         "padding_top": 32,
         "padding_bottom": 20,
-        "custom_colors_background": "#121212",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "linear-gradient(127deg, rgba(254, 249, 222, 1) 19%, rgba(252, 222, 79, 1) 81%)",
         "custom_colors_text": "#2e2a39",
-        "custom_colors_solid_button_background": "#ffffff",
-        "custom_colors_solid_button_text": "#121212",
+        "custom_colors_solid_button_background": "#2e2a39",
+        "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#ffffff"
       }
     }
