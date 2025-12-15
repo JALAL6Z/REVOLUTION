@@ -148,7 +148,7 @@
         "desktop_arrows_position": "hidden",
         "mobile_full_page": true,
         "mobile_border_radius": 0,
-        "slides_mobile": 2,
+        "slides_mobile": 3,
         "per_move_mobile": 1,
         "mobile_spacing": 30,
         "mobile_side_padding": 0,
