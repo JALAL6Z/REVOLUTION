@@ -599,9 +599,21 @@
         "disabled": false,
         "settings": {}
       },
+      "13766566558402285670": {
+        "type": "shopify://apps/doran-product-reviews/blocks/app-embed/ca90c3ee-bc39-4c25-90cd-fdf0519c6d11",
+        "disabled": false,
+        "settings": {
+          "isJSONLD": false,
+          "isPopup": false,
+          "isPop": false,
+          "customCSS": "",
+          "is_use_shopify_font": false,
+          "pop_shopify_font": "sans_serif_n4"
+        }
+      },
       "1143683040400472741": {
         "type": "shopify://apps/trustoo-io-reviews/blocks/trustoo-review-switch/c8f15077-6475-4e86-ad06-b66038d5ba2c",
-        "disabled": false,
+        "disabled": true,
         "settings": {}
       }
     }
@@ -757,7 +769,7 @@
       " /* Enlève le gras du texte à l'intérieur des sections */.accordion__content,.collapsible-content,.collapsible-content p {font-weight: normal !important;}",
       " /* FAQ / Accordéons : enlever le gras du titre */details summary,.accordion__title,.collapsible-trigger,.collapsible-trigger__heading {font-weight: 400 !important; font-size: 12px !important;}",
       " /* Texte à l’intérieur de l’accordéon */details .accordion__content,.accordion__content,.collapsible-content,.collapsible-content p {font-size: 11px !important; line-height: 1.6 !important; font-weight: 400 !important;}",
-      "/* Comparison table – réduire la taille de la police */.comparison-table,.comparison-table th,.comparison-table td {font-size: 13px !important;}"
+      " /* Comparison table – réduire la taille de la police */.comparison-table,.comparison-table th,.comparison-table td {font-size: 13px !important;}"
     ]
   }
 }
