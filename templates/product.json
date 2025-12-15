@@ -67,18 +67,18 @@
             "title_alignment": "left",
             "uppercase_title": true,
             "margin_top": 0,
-            "margin_bottom": 3
+            "margin_bottom": 0
           }
         },
         "trustoo_io_reviews_star_rating_widget_FY7rqn": {
           "type": "shopify://apps/trustoo-io-reviews/blocks/star-rating-widget/c8f15077-6475-4e86-ad06-b66038d5ba2c",
           "settings": {
             "star_size": 20,
-            "font_size": 16,
+            "font_size": 14,
             "text_color": "#585858",
             "block_aligment": "left",
-            "margin_top": 10,
-            "margin_bottom": 0
+            "margin_top": 0,
+            "margin_bottom": 11
           }
         },
         "custom_liquid_JzxRx3": {
