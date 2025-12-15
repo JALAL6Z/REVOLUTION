@@ -11,6 +11,24 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "17658003669fa0dcd9": {
+      "type": "apps",
+      "blocks": {
+        "trustoo_io_reviews_review_widget_qezzFi": {
+          "type": "shopify://apps/trustoo-io-reviews/blocks/review-widget/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "settings": {
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "trustoo_io_reviews_review_widget_qezzFi"
+      ],
+      "settings": {
+        "display_id": false,
+        "include_margins": true
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -74,6 +92,7 @@
     }
   },
   "order": [
+    "17658003669fa0dcd9",
     "footer"
   ]
 }
