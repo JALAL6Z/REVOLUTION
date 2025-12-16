@@ -417,8 +417,8 @@
           "68fdc0a0-cd7c-40b9-97b3-a76eb7917a47": {
             "type": "payment_badges",
             "settings": {
-              "enabled_payment_types": "",
-              "margin_top": 12,
+              "enabled_payment_types": "apple_pay, google_pay, master, visa, stripe, klarna",
+              "margin_top": 6,
               "margin_bottom": 12
             }
           },
