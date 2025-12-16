@@ -277,7 +277,7 @@
           "6269cf6e-8e24-4068-8e2a-35bb4addad4e": {
             "type": "countdown_timer",
             "settings": {
-              "timer_text": "<strong>Cart reserved for [timer]</strong>",
+              "timer_text": "<strong>Panier réservé pour [timer]</strong>",
               "timer_duration": 300,
               "font_size": "1.4",
               "color_scheme": "inverse",
@@ -335,9 +335,9 @@
           "097b7b4f-c0b8-4073-a06b-e6d49a5aad20": {
             "type": "cart_items",
             "settings": {
-              "image_size": "20",
+              "image_size": "17",
               "image_link": false,
-              "title_size": "1.5",
+              "title_size": "1.3",
               "title_link": false,
               "displayed_variants": "compact",
               "prices_position": "right",
@@ -381,7 +381,7 @@
             "type": "subtotals",
             "settings": {
               "display_total_savings": true,
-              "savings_left_text": "<strong>Savings</strong>",
+              "savings_left_text": "<strong>ÉCONOMISEZ</strong>",
               "savings_right_text": "<strong>-[savings]</strong>",
               "savings_alignment": "spaced",
               "savings_text_color": "accent-1",
@@ -389,13 +389,13 @@
               "savings_position": "above",
               "savings_spacing": 10,
               "display_subtotal": true,
-              "subtotal_left_text": "<strong>Subtotal</strong>",
+              "subtotal_left_text": "<strong>Sous-total</strong>",
               "subtotal_right_text": "<strong>[subtotal]</strong>",
               "subtotal_alignment": "spaced",
               "subtotal_text_color": "text",
               "subtotal_text_size": 20,
               "display_discounts": false,
-              "discounts_label": "<strong>Discounts:</strong>",
+              "discounts_label": "<strong>Remises :</strong>",
               "discounts_alignment": "flex-start",
               "margin_top": 15,
               "margin_bottom": 15
@@ -492,7 +492,7 @@
         ],
         "settings": {
           "test_mode": false,
-          "heading_text": "Panier • [count] items",
+          "heading_text": "Panier • [count] produits",
           "heading_alignment": "flex-start",
           "desktop_width": "normal",
           "mobile_width": "full",
