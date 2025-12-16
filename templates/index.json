@@ -344,7 +344,7 @@
           "type": "heading",
           "settings": {
             "title": "APPRENDRE, RÉFLÉCHIR ET S’AMUSER… SANS ÉCRAN",
-            "title_highlight_color": "#6D388B",
+            "title_highlight_color": "#6d388b",
             "heading_size": "h2"
           }
         }
@@ -363,9 +363,9 @@
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 16,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d"
@@ -422,7 +422,7 @@
           "type": "heading",
           "settings": {
             "title": "LOGIQUE, CALME ET PLAISIR RÉUNIS",
-            "title_highlight_color": "#6D388B",
+            "title_highlight_color": "#6d388b",
             "heading_size": "h2"
           }
         }
@@ -441,9 +441,9 @@
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 16,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d"
@@ -578,6 +578,24 @@
         "custom_cards_gradient_background": "",
         "custom_cards_colors_text": "#2e2a39"
       }
+    },
+    "1765843541f44af11b": {
+      "type": "apps",
+      "blocks": {
+        "trustoo_io_reviews_review_widget_rTqj3x": {
+          "type": "shopify://apps/trustoo-io-reviews/blocks/review-widget/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "settings": {
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "trustoo_io_reviews_review_widget_rTqj3x"
+      ],
+      "settings": {
+        "display_id": false,
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -588,6 +606,7 @@
     "image_with_text_BTgzb8",
     "rich_text_XKwTkJ",
     "image_with_text_A7KJMB",
-    "6aa09428-a417-429d-9159-a4e8afd49590"
+    "6aa09428-a417-429d-9159-a4e8afd49590",
+    "1765843541f44af11b"
   ]
 }
