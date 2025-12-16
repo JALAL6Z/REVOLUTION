@@ -1325,6 +1325,24 @@
         "custom_container_gradient_background": "",
         "custom_contaner_colors_text": "#2e2a39"
       }
+    },
+    "1765843598fdaa915c": {
+      "type": "apps",
+      "blocks": {
+        "trustoo_io_reviews_review_widget_izhttq": {
+          "type": "shopify://apps/trustoo-io-reviews/blocks/review-widget/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "settings": {
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "trustoo_io_reviews_review_widget_izhttq"
+      ],
+      "settings": {
+        "display_id": false,
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -1342,6 +1360,7 @@
     "rich_text_CrmXpe",
     "image_with_text_XGhkQ9",
     "featured_collection_eCA6M9",
-    "collapsible_content_wRmYJE"
+    "collapsible_content_wRmYJE",
+    "1765843598fdaa915c"
   ]
 }
